@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "power_symbols") (type "KiCad") (uri "/Users/filipnorlin/Documents/Github/github_FilipNorlin/LED-MATRIX/Rev_1/ECAD/Kicad_lib/Symbols/power_symbols.kicad_sym") (options "") (descr ""))
+	(lib (name "filip") (type "KiCad") (uri "/Users/filipnorlin/Documents/Github/github_FilipNorlin/LED-MATRIX/Rev_1/ECAD/Kicad_lib/Symbols/filip.kicad_sym") (options "") (descr ""))
+)

@@ -1,0 +1,5 @@
+(design_block_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "/Users/filipnorlin/Documents/Github/github_FilipNorlin/LED-MATRIX/Rev_1/ECAD/Kicad_lib/Design_Blocks/filip.kicad_blocks/Library.kicad_blocks") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "/Users/filipnorlin/Documents/Github/github_FilipNorlin/LED-MATRIX/Rev_1/ECAD/Kicad_lib/Design_Blocks/filip.kicad_blocks/USB_C_DATA.kicad_block/Library.kicad_blocks") (options "") (descr ""))
+)
