@@ -1,0 +1,68 @@
+# KiCad project files to keep
+!*.kicad_pro
+!*.kicad_sch
+!*.kicad_pcb
+!*.kicad_sym
+!*.kicad_mod
+!*.lib
+!*.dcm
+
+# Project backup and autosave
+*.bak
+*.tmp
+*~
+
+# KiCad backup/autosave files
+*.0001.kicad_sch
+*.0001.kicad_pcb
+*.autosave.kicad_pcb
+*.autosave.kicad_sch
+
+# User-specific settings (don't sync across machines)
+*.kicad_prl
+*.kicad_wks
+*.kicad_dru
+*.kicad_sav
+fp-info-cache
+
+# Simulation files
+*.raw
+*.log
+*.cir
+*.plt
+*.net
+*.cache
+*.out
+*.data
+*.vcd
+*.spice
+
+# Generated outputs (optional – keep if you want outputs in repo)
+*.pdf
+*.ps
+*.svg
+*.png
+*.bom
+*.xml
+*.csv
+*.pos
+*.gbr
+*.gtp
+*.gts
+*.gto
+*.gtl
+*.gbl
+*.gbo
+*.gbs
+*.gml
+*.drl
+*.zip
+
+# Build artifacts
+/build/
+/output/
+/fabrication/
+
+# OS-specific
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+[submodule "Rev_1/ECAD/Kicad_lib"]
+	path = Rev_1/ECAD/Kicad_lib
+	url = git@github.com:FilipNorlin/Kicad_lib.git
