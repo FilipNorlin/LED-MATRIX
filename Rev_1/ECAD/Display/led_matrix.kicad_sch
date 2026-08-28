@@ -16328,6 +16328,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 254 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7ac870e-0ff5-4182-b352-9ff4d29341f7")
 		)
@@ -16422,6 +16433,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 127 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 127 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -16536,6 +16558,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 76.2 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9edcef09-7a20-4ada-a309-132e28868531")
 		)
@@ -16630,6 +16663,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -16744,6 +16788,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 114.3 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "96c07f94-5c74-4768-b7ee-2123f61cd2ff")
 		)
@@ -16838,6 +16893,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 266.7 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 266.7 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -16952,6 +17018,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 266.7 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a5f9adda-91ee-4c0f-8e11-0ffcdd51e1b3")
 		)
@@ -17046,6 +17123,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 114.3 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 114.3 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -17160,6 +17248,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 152.4 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7ce86696-2518-452d-9a95-8fbe095fcae8")
 		)
@@ -17254,6 +17353,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 101.6 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 101.6 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -17368,6 +17478,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f1d0b53-62f7-48cd-a256-33d2942093ed")
 		)
@@ -17462,6 +17583,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 101.6 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 101.6 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -17576,6 +17708,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3c743297-c81c-4a43-85b7-56713ccdfcda")
 		)
@@ -17670,6 +17813,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -17784,6 +17938,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5b413096-cb9d-4795-90e3-93d4a94f07dd")
 		)
@@ -17878,6 +18043,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 101.6 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 101.6 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -17992,6 +18168,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f3bf014a-fdc3-4a6d-896c-5a332bdaac91")
 		)
@@ -18086,6 +18273,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 139.7 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 139.7 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -18200,6 +18398,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fa9846ea-b9a8-435b-a833-13225e9debe1")
 		)
@@ -18294,6 +18503,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 152.4 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 152.4 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -18408,6 +18628,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 177.8 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9a1457a0-f44c-4da4-9068-5498b62b1109")
 		)
@@ -18502,6 +18733,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -18616,6 +18858,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 254 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4e96125d-eb4e-470c-a8d5-25710232de87")
 		)
@@ -18710,6 +18963,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -18824,6 +19088,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "72df2123-6240-4d70-8ddd-907c4ab51b94")
 		)
@@ -18918,6 +19193,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 76.2 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 76.2 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -19032,6 +19318,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 152.4 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a95b0dbb-7899-4853-b8f0-b279dd09231a")
 		)
@@ -19126,6 +19423,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 241.3 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 241.3 209.55 90)
 			(hide yes)
 			(show_name no)
@@ -19240,6 +19548,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 88.9 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "78209860-4624-4ce7-922e-e591def3b3e3")
 		)
@@ -19334,6 +19653,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 127 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 127 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -19448,6 +19778,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 152.4 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1580f30c-44da-4161-8ff4-c8242e9042ac")
 		)
@@ -19542,6 +19883,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 76.2 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 76.2 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -19656,6 +20008,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 266.7 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "20d5fbe1-abf0-478c-b18d-3dba2a224130")
 		)
@@ -19750,6 +20113,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 215.9 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 215.9 209.55 90)
 			(hide yes)
 			(show_name no)
@@ -19864,6 +20238,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 177.8 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eef9dc5f-6a0e-44f6-a2fb-ebccf9bbefd7")
 		)
@@ -19958,6 +20343,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 139.7 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 139.7 209.55 90)
 			(hide yes)
 			(show_name no)
@@ -20072,6 +20468,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 165.1 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2b523f20-8f0f-4981-b305-ca74a4338a98")
 		)
@@ -20166,6 +20573,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 139.7 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 139.7 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -20280,6 +20698,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0fc50054-0a47-4426-b04c-9772f02555b3")
 		)
@@ -20374,6 +20803,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 266.7 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 266.7 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -20488,6 +20928,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 190.5 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f5323a18-cbb6-42e3-a4a0-e2e44577d78a")
 		)
@@ -20582,6 +21033,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 152.4 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 152.4 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -20696,6 +21158,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 88.9 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "47f293b0-6532-4548-a483-37e8f2b32297")
 		)
@@ -20790,6 +21263,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 165.1 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 165.1 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -20904,6 +21388,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "81683d70-e51c-4bc3-bbdb-3024720d49e8")
 		)
@@ -20998,6 +21493,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -21112,6 +21618,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d256a04e-a58d-4268-be52-34f88861a1db")
 		)
@@ -21206,6 +21723,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -21320,6 +21848,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 127 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05440fe9-ff70-4476-9703-87cff8ea19c7")
 		)
@@ -21414,6 +21953,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 266.7 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 266.7 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -21528,6 +22078,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 228.6 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f268176e-4924-479a-8d7d-6f6f8b0f70ff")
 		)
@@ -21622,6 +22183,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -21736,6 +22308,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 203.2 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9344dccb-74d0-4290-bd89-7e2e24b96d12")
 		)
@@ -21830,6 +22413,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -21944,6 +22538,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 152.4 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e034199d-021a-49dd-881e-949b6636df47")
 		)
@@ -22038,6 +22643,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 114.3 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 114.3 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -22152,6 +22768,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 254 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "63e1b394-c1c0-495c-a8e4-6b41052b9957")
 		)
@@ -22246,6 +22873,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -22360,6 +22998,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 139.7 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8321ed5d-eb07-4a1a-b066-390ebcc2cb20")
 		)
@@ -22454,6 +23103,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 254 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 254 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -22568,6 +23228,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 165.1 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "be7d4196-c6e1-4d9f-8b6e-74d1b22a1178")
 		)
@@ -22662,6 +23333,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 177.8 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 177.8 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -22776,6 +23458,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "88c2bc86-b6b9-4781-a434-c75b13de713a")
 		)
@@ -22870,6 +23563,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 209.55 90)
 			(hide yes)
 			(show_name no)
@@ -22984,6 +23688,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 127 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8c3a789f-4cbc-4076-8a94-f1e265dab2f6")
 		)
@@ -23078,6 +23793,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 177.8 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 177.8 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -23192,6 +23918,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 266.7 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "279e05a6-85ce-41c2-939a-abea76e53173")
 		)
@@ -23286,6 +24023,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 165.1 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 165.1 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -23400,6 +24148,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 114.3 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fac3041e-5c96-4bff-93d2-3a65a43a812a")
 		)
@@ -23494,6 +24253,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 165.1 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 165.1 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -23608,6 +24378,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 88.9 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b03ad73d-069b-4b0f-8a61-4caabc90bfbd")
 		)
@@ -23702,6 +24483,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -23816,6 +24608,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 139.7 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "44a0645a-0671-4bde-9d3a-e740cba3bb28")
 		)
@@ -23910,6 +24713,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 114.3 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 114.3 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -24024,6 +24838,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 190.5 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b5cdbe94-4421-4aef-87d3-34f3f28c2792")
 		)
@@ -24118,6 +24943,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -24232,6 +25068,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 76.2 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f6b552c8-0428-495d-9e66-0ba777bd9bcc")
 		)
@@ -24326,6 +25173,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -24440,6 +25298,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 88.9 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5944f8c1-8729-4e14-b9e7-4dec1087f89b")
 		)
@@ -24534,6 +25403,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -24648,6 +25528,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 203.2 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4ed2e501-8a47-42ae-a36d-52aa745511fd")
 		)
@@ -24742,6 +25633,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -24856,6 +25758,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 203.2 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3fa9a0de-56ae-4dcc-be67-a389fcb7e70b")
 		)
@@ -24950,6 +25863,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 76.2 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 76.2 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -25064,6 +25988,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 177.8 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1afe6b37-34b7-4b2b-a94b-49109dc4f59d")
 		)
@@ -25158,6 +26093,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -25272,6 +26218,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 152.4 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7aeea315-653b-4292-92bc-3fbd4e4ced30")
 		)
@@ -25366,6 +26323,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -25480,6 +26448,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "49c26a92-3b36-49d7-bae7-c56ca39fbe47")
 		)
@@ -25574,6 +26553,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 177.8 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 177.8 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -25688,6 +26678,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 254 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f324cd97-e826-4292-9267-37973b03047e")
 		)
@@ -25782,6 +26783,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 127 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 127 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -25896,6 +26908,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 165.1 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d012e020-6faf-44b6-9e02-8591c1dfb7c7")
 		)
@@ -25990,6 +27013,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -26104,6 +27138,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 190.5 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8d552d20-34b3-4036-a0c4-f5affaafdf34")
 		)
@@ -26198,6 +27243,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 76.2 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 76.2 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -26312,6 +27368,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dc7d0939-a3d6-42cc-b19f-c2376012b248")
 		)
@@ -26406,6 +27473,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 241.3 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 241.3 196.85 90)
 			(hide yes)
 			(show_name no)
@@ -26520,6 +27598,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "529a0a6e-8d7b-4061-97af-9c02a06f2dd0")
 		)
@@ -26614,6 +27703,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 101.6 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 101.6 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -26728,6 +27828,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fdc1e71e-aa34-4a30-adc2-be38c92790f9")
 		)
@@ -26822,6 +27933,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -26936,6 +28058,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b7c1e2cf-8914-4403-a26a-407fce1ae890")
 		)
@@ -27030,6 +28163,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 76.2 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 76.2 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -27144,6 +28288,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 139.7 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5d31340b-23c3-4444-a00c-960ac9cb3648")
 		)
@@ -27238,6 +28393,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 177.8 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 177.8 209.55 90)
 			(hide yes)
 			(show_name no)
@@ -27352,6 +28518,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 190.5 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "877c47dd-3c5a-4a36-8887-5d0bbcd62135")
 		)
@@ -27446,6 +28623,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 215.9 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 215.9 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -27560,6 +28748,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "11bafe88-28c4-4bd0-bc96-2f345c2982bb")
 		)
@@ -27654,6 +28853,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 152.4 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 152.4 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -27768,6 +28978,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f1f1048a-448b-4b20-aeff-fe33b97280b1")
 		)
@@ -27862,6 +29083,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 209.55 90)
 			(hide yes)
 			(show_name no)
@@ -27976,6 +29208,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 203.2 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7a444d34-e72c-4b12-880f-538256e21460")
 		)
@@ -28070,6 +29313,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -28184,6 +29438,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 177.8 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8ae81273-f663-4ade-8cbc-adad4b29eab9")
 		)
@@ -28278,6 +29543,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -28392,6 +29668,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 114.3 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3512b5f8-d0af-40b7-abcd-d4165a62728d")
 		)
@@ -28486,6 +29773,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 139.7 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 139.7 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -28600,6 +29898,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c786836-3449-4bf9-8b81-ffb2fbb2a690")
 		)
@@ -28694,6 +30003,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -28808,6 +30128,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 165.1 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "292ca4c9-f292-4e8f-a57e-59b78b1cf520")
 		)
@@ -28902,6 +30233,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -29016,6 +30358,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 266.7 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dcea7fec-4d44-49a4-b776-420eab8b5f53")
 		)
@@ -29110,6 +30463,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 177.8 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 177.8 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -29224,6 +30588,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 190.5 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c2733d82-eed4-45c0-8e65-0481d7126b17")
 		)
@@ -29318,6 +30693,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -29432,6 +30818,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a7fc3d2a-5551-4e51-9fc4-55c34dde54d1")
 		)
@@ -29526,6 +30923,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 254 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 254 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -29640,6 +31048,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 76.2 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d8fd0bfd-c414-4e19-be2b-7413bb41cab0")
 		)
@@ -29734,6 +31153,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 114.3 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 114.3 196.85 90)
 			(hide yes)
 			(show_name no)
@@ -29848,6 +31278,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 254 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b266ee97-d8dd-4798-91f0-ef16bbbdc192")
 		)
@@ -29942,6 +31383,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 127 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 127 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -30056,6 +31508,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 177.8 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e44076e9-6a37-43ed-ad89-7305b697dfaf")
 		)
@@ -30150,6 +31613,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 266.7 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 266.7 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -30264,6 +31738,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1065e7ad-db08-4da1-b257-d580399a7bae")
 		)
@@ -30358,6 +31843,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 165.1 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 165.1 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -30472,6 +31968,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 114.3 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1062ee74-6a36-425d-87f5-e50693a5df3d")
 		)
@@ -30566,6 +32073,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 114.3 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 114.3 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -30680,6 +32198,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "92ad75e0-0313-4fbe-8b40-826a728aeaac")
 		)
@@ -30774,6 +32303,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 152.4 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 152.4 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -30888,6 +32428,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 152.4 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "85fd2b59-0e41-4b6d-ae36-d4510d80132f")
 		)
@@ -30982,6 +32533,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 215.9 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 215.9 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -31096,6 +32658,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b0ac727f-5b62-45ec-b002-6907c5da8534")
 		)
@@ -31190,6 +32763,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 139.7 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 139.7 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -31304,6 +32888,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 266.7 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8342b019-9072-4f88-bf95-1aaba6f365e0")
 		)
@@ -31398,6 +32993,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 101.6 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 101.6 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -31512,6 +33118,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 114.3 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f4e26453-4e1e-4de6-b4df-546a3d647c54")
 		)
@@ -31606,6 +33223,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -31720,6 +33348,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 165.1 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d6ea1669-c4f5-4fdc-a4c1-6d88afd2bba4")
 		)
@@ -31814,6 +33453,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 127 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 127 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -31928,6 +33578,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c5a4f984-78cb-4ad3-8a16-62d3c6a75757")
 		)
@@ -32022,6 +33683,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 254 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 254 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -32136,6 +33808,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 266.7 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2fc2b8d4-f61f-43df-b042-e3527d61113e")
 		)
@@ -32230,6 +33913,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 127 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 127 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -32344,6 +34038,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 76.2 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "92da1693-eced-4ba8-b173-1c7233037a8e")
 		)
@@ -32438,6 +34143,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 254 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 254 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -32552,6 +34268,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 254 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "10e7dfca-281a-4bbe-91e3-8d2b02819f2e")
 		)
@@ -32646,6 +34373,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 165.1 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 165.1 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -32760,6 +34498,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 114.3 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9943a2ae-287a-4c99-bb4d-6fa6c4639ef6")
 		)
@@ -32854,6 +34603,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 139.7 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 139.7 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -32968,6 +34728,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 127 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "56c99221-a02d-4bcf-a28f-9564fbc41151")
 		)
@@ -33062,6 +34833,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -33176,6 +34958,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 114.3 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "631463ce-7b30-4121-ac88-61e0cd20404e")
 		)
@@ -33270,6 +35063,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 152.4 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 152.4 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -33384,6 +35188,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36748715-3031-44de-b24b-872f4bcbcaae")
 		)
@@ -33478,6 +35293,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 152.4 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 152.4 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -33592,6 +35418,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 266.7 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "599b2e4b-5f32-4632-86c0-719566b375ac")
 		)
@@ -33686,6 +35523,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -33800,6 +35648,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 88.9 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "70857f64-6586-4df9-9a79-c25fad1939e6")
 		)
@@ -33894,6 +35753,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 114.3 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 114.3 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -34008,6 +35878,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 139.7 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "df9443d3-a5e5-4cfc-8935-0f9ad46f88bd")
 		)
@@ -34102,6 +35983,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -34216,6 +36108,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 177.8 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "44b4ab72-5bcf-4aa4-98c0-4421ee31d769")
 		)
@@ -34310,6 +36213,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 139.7 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 139.7 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -34424,6 +36338,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 139.7 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9ffba7fb-561d-4937-b8dd-6149ac414836")
 		)
@@ -34518,6 +36443,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -34632,6 +36568,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 76.2 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5c75cdff-c983-4cd0-8087-8d4388adb9e2")
 		)
@@ -34726,6 +36673,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 215.9 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 215.9 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -34840,6 +36798,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1f21dfc1-2fc2-488d-b69f-5539eddaccef")
 		)
@@ -34934,6 +36903,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 254 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 254 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -35048,6 +37028,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 127 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c04336a9-bb91-4da0-8e79-dbfe5d23166c")
 		)
@@ -35142,6 +37133,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -35256,6 +37258,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ef48115d-eea8-4e2d-ab95-e4e4b2d55df1")
 		)
@@ -35350,6 +37363,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 266.7 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 266.7 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -35464,6 +37488,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 228.6 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1e8f28ce-2b2d-45f8-8af2-47cd19584f46")
 		)
@@ -35558,6 +37593,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -35672,6 +37718,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 254 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "51f970c2-87d7-4ec6-9d69-ae523b6692c7")
 		)
@@ -35766,6 +37823,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -35880,6 +37948,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 165.1 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "caf5b3f9-30c4-4cd3-8658-1fe31df9527e")
 		)
@@ -35974,6 +38053,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 114.3 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 114.3 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -36088,6 +38178,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 139.7 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bcc542f9-f04e-477e-8eeb-9b52693aec37")
 		)
@@ -36182,6 +38283,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -36296,6 +38408,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 177.8 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5f9f7207-dc7d-47df-93a1-a3001c96a3ef")
 		)
@@ -36390,6 +38513,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 76.2 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 76.2 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -36504,6 +38638,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 152.4 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "669e1ec2-a645-4a10-9d9f-3b0d7155b6cb")
 		)
@@ -36598,6 +38743,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -36712,6 +38868,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 76.2 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "af350560-aed5-4cc0-9d34-d557f5552867")
 		)
@@ -36806,6 +38973,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 241.3 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 241.3 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -36920,6 +39098,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 139.7 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "98473c87-d3fe-4972-a89c-da25e3f6c396")
 		)
@@ -37014,6 +39203,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 152.4 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 152.4 196.85 90)
 			(hide yes)
 			(show_name no)
@@ -37128,6 +39328,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 266.7 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5b99087b-128e-4ae8-9c69-920c6b46a296")
 		)
@@ -37222,6 +39433,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 254 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 254 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -37336,6 +39558,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 114.3 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "85b5c692-cf19-401d-a3b4-f7c0cac6607d")
 		)
@@ -37430,6 +39663,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 88.9 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 88.9 209.55 90)
 			(hide yes)
 			(show_name no)
@@ -37544,6 +39788,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 88.9 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "518cbfb8-2cc2-4a71-8661-f1d49c6e79db")
 		)
@@ -37638,6 +39893,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 177.8 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 177.8 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -37752,6 +40018,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 254 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1392117e-8e89-44b0-ba38-0ffc76d07c96")
 		)
@@ -37846,6 +40123,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 76.2 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 76.2 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -37960,6 +40248,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 228.6 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "95d76f40-5128-4a0a-90a9-c0f422693f32")
 		)
@@ -38054,6 +40353,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 215.9 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 215.9 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -38168,6 +40478,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 190.5 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f4c17c05-fa12-4ceb-bb8f-e7d506ea730a")
 		)
@@ -38262,6 +40583,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 139.7 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 139.7 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -38376,6 +40708,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 203.2 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7918b4d9-afd7-4024-873e-eea7f7a17616")
 		)
@@ -38470,6 +40813,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 114.3 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 114.3 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -38584,6 +40938,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 266.7 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8e014252-459b-48fa-bae0-be49f10e8e3f")
 		)
@@ -38678,6 +41043,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 101.6 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 101.6 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -38792,6 +41168,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 127 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7718bc8d-a054-4c52-bfef-2881ee548b78")
 		)
@@ -38886,6 +41273,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 241.3 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 241.3 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -39000,6 +41398,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 228.6 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "013d8bf4-e4cb-47b9-a242-2487c1363d08")
 		)
@@ -39094,6 +41503,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 203.2 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 203.2 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -39208,6 +41628,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "22baa613-7a9c-4975-99ff-d4ee16bd36b5")
 		)
@@ -39302,6 +41733,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 139.7 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 139.7 107.95 90)
 			(hide yes)
 			(show_name no)
@@ -39416,6 +41858,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 127 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ece0bc6a-8adf-4519-b3ac-4eda17e306a6")
 		)
@@ -39510,6 +41963,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 177.8 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 177.8 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -39624,6 +42088,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 127 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c78c4ad5-46db-4533-b674-796267e180f8")
 		)
@@ -39718,6 +42193,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 241.3 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 241.3 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -39832,6 +42318,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 228.6 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "72404fe5-ab11-4264-bf09-4d33e796b397")
 		)
@@ -39926,6 +42423,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 152.4 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 152.4 234.95 90)
 			(hide yes)
 			(show_name no)
@@ -40040,6 +42548,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 228.6 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "336a7127-9ba0-478f-9c43-a9bdb344f7e8")
 		)
@@ -40134,6 +42653,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 190.5 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 190.5 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -40248,6 +42778,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 165.1 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "281f23da-29c3-4287-9d53-5255d6ac9d2f")
 		)
@@ -40342,6 +42883,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 266.7 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 266.7 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -40456,6 +43008,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 152.4 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9cb33740-16b9-485d-b55e-6c0800da27b8")
 		)
@@ -40550,6 +43113,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 127 209.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 127 209.55 90)
 			(hide yes)
 			(show_name no)
@@ -40664,6 +43238,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 76.2 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e3d0b5b0-29ee-41bd-9322-408bc16cc78e")
 		)
@@ -40758,6 +43343,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 266.7 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 266.7 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -40872,6 +43468,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 177.8 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e8a264ee-2c53-4040-ab93-db9569e7f5e6")
 		)
@@ -40966,6 +43573,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 76.2 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 76.2 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -41080,6 +43698,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 165.1 107.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4a3e0734-b1c4-427c-85c5-5004ffbd0903")
 		)
@@ -41174,6 +43803,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 127 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 127 196.85 90)
 			(hide yes)
 			(show_name no)
@@ -41288,6 +43928,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dc49dcb6-3ab3-4472-b7a7-81cd2b99022c")
 		)
@@ -41382,6 +44033,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -41496,6 +44158,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 203.2 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a2e3bb04-425a-4651-ad27-97b30a6b0863")
 		)
@@ -41590,6 +44263,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 165.1 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 165.1 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -41704,6 +44388,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 215.9 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "415a4399-a7c1-4bc3-8cc1-cd7a271317d5")
 		)
@@ -41798,6 +44493,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 165.1 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 165.1 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -41912,6 +44618,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 165.1 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4ac125ac-c6d3-487f-9537-6651ac96baab")
 		)
@@ -42006,6 +44723,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 254 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 254 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -42120,6 +44848,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 76.2 196.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0050bbcc-5514-4e09-9fcf-e31d9e975ebd")
 		)
@@ -42214,6 +44953,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 127 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 127 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -42328,6 +45078,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 254 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a4d4e3f2-a090-4ac7-91fd-b591f2b7514c")
 		)
@@ -42422,6 +45183,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 177.8 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 177.8 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -42536,6 +45308,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 101.6 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0178decd-daf6-4750-8de1-51cfc6b23179")
 		)
@@ -42630,6 +45413,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 228.6 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 228.6 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -42744,6 +45538,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" "64"
+			(at 241.3 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c5220aba-39d4-4adf-a8d1-77bfd5f313b6")
 		)
@@ -42838,6 +45643,17 @@
 			)
 		)
 		(property "Article Number" "LTST-C191KFKT"
+			(at 215.9 234.95 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "64"
 			(at 215.9 234.95 90)
 			(hide yes)
 			(show_name no)

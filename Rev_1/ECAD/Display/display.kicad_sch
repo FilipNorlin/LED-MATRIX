@@ -1174,6 +1174,17 @@
 				)
 			)
 		)
+		(property "Part-DB ID" ""
+			(at 142.24 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "0810354f-667f-453f-a858-f7533b66ae4e")
 		)
@@ -1297,6 +1308,17 @@
 			)
 		)
 		(property "Article Number" "41001167"
+			(at 93.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "65"
 			(at 93.98 109.22 0)
 			(hide yes)
 			(show_name no)

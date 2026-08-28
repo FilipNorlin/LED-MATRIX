@@ -579,7 +579,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}_boom.csv",
+    "bom_export_filename": "../../PCB_files/Display/BOM/display.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -640,7 +640,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -664,6 +664,12 @@
           "group_by": false,
           "label": "Article Number",
           "name": "Article Number",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "Part-DB ID",
+          "name": "Part-DB ID",
           "show": true
         }
       ],

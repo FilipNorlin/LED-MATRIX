@@ -4506,12 +4506,9 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Simulation_SPICE:NPN"
-			(pin_numbers
-				(hide yes)
-			)
+		(symbol "filip:NPN_Alternative_1"
 			(pin_names
-				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4519,7 +4516,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "Q"
-				(at -2.54 7.62 0)
+				(at 3.556 1.016 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -4529,7 +4526,7 @@
 				)
 			)
 			(property "Value" "NPN"
-				(at -2.54 5.08 0)
+				(at 3.81 -1.27 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -4539,28 +4536,6 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 63.5 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-				(at 63.5 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4571,7 +4546,7 @@
 					)
 				)
 			)
-			(property "Sim.Device" "NPN"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4582,7 +4557,7 @@
 					)
 				)
 			)
-			(property "Sim.Type" "GUMMELPOON"
+			(property "Description" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4593,32 +4568,10 @@
 					)
 				)
 			)
-			(property "Sim.Pins" "1=C 2=B 3=E"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "simulation"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "NPN_0_1"
+			(symbol "NPN_Alternative_1_0_1"
 				(polyline
 					(pts
-						(xy -2.54 0) (xy 0.635 0)
+						(xy -5.08 0) (xy -1.905 0)
 					)
 					(stroke
 						(width 0.1524)
@@ -4630,7 +4583,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+						(xy -1.905 1.905) (xy -1.905 -1.905) (xy -1.905 -1.905)
 					)
 					(stroke
 						(width 0.508)
@@ -4642,7 +4595,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.635 0.635) (xy 2.54 2.54)
+						(xy -1.905 0.635) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -4654,7 +4607,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
+						(xy -1.905 -0.635) (xy 0 -2.54) (xy 0 -2.54)
 					)
 					(stroke
 						(width 0)
@@ -4665,7 +4618,7 @@
 					)
 				)
 				(circle
-					(center 1.27 0)
+					(center -1.27 0)
 					(radius 2.8194)
 					(stroke
 						(width 0.254)
@@ -4677,7 +4630,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
+						(xy -1.27 -1.778) (xy -0.762 -1.27) (xy -0.254 -2.286) (xy -1.27 -1.778) (xy -1.27 -1.778)
 					)
 					(stroke
 						(width 0)
@@ -4689,7 +4642,7 @@
 				)
 				(polyline
 					(pts
-						(xy 2.794 -1.27) (xy 2.794 -1.27)
+						(xy 0.254 -1.27) (xy 0.254 -1.27)
 					)
 					(stroke
 						(width 0.1524)
@@ -4701,7 +4654,7 @@
 				)
 				(polyline
 					(pts
-						(xy 2.794 -1.27) (xy 2.794 -1.27)
+						(xy 0.254 -1.27) (xy 0.254 -1.27)
 					)
 					(stroke
 						(width 0.1524)
@@ -4712,11 +4665,11 @@
 					)
 				)
 			)
-			(symbol "NPN_1_1"
-				(pin open_collector line
-					(at 2.54 5.08 270)
+			(symbol "NPN_Alternative_1_1_1"
+				(pin input line
+					(at -7.62 0 0)
 					(length 2.54)
-					(name "C"
+					(name "B"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4731,10 +4684,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at -5.08 0 0)
+				(pin open_emitter line
+					(at 0 -5.08 90)
 					(length 2.54)
-					(name "B"
+					(name "E"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4749,10 +4702,10 @@
 						)
 					)
 				)
-				(pin open_emitter line
-					(at 2.54 -5.08 90)
+				(pin open_collector line
+					(at 0 5.08 270)
 					(length 2.54)
-					(name "E"
+					(name "C"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8235,7 +8188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04867af0-c852-499b-ac59-58cc3290d036")
-		(property "Reference" "R2"
+		(property "Reference" "R7"
 			(at 184.15 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8323,6 +8276,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 181.61 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 181.61 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 181.61 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "73"
+			(at 181.61 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "caad2c45-9c4e-40e4-b762-ae295aded400")
 		)
@@ -8332,7 +8329,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "R2")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -8350,7 +8347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "082634a2-c43e-4c8b-9fe4-c2851ab2dbd5")
-		(property "Reference" "C12"
+		(property "Reference" "C8"
 			(at 134.62 180.3462 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8438,6 +8435,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 132.08 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 132.08 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 132.08 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "9"
+			(at 132.08 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e2bb1bea-056c-4c12-b3cd-781a89ceb033")
 		)
@@ -8447,7 +8488,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C12")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8465,7 +8506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a301caa-f3bf-4db8-8b05-6702a83d10d5")
-		(property "Reference" "C13"
+		(property "Reference" "C11"
 			(at 172.72 181.6162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8531,6 +8572,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 170.18 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 170.18 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 170.18 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "26"
+			(at 170.18 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "72c8d338-fb76-4559-b2f5-ee91b81d5e30")
 		)
@@ -8540,7 +8625,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C13")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -8558,7 +8643,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10f5a25b-d4d3-4129-9b6b-abf2d25d55f5")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR017"
 			(at 139.7 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8618,7 +8703,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR028")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -8635,7 +8720,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1261ce90-c663-4c16-8fe5-2697e11ccab0")
-		(property "Reference" "R9"
+		(property "Reference" "R5"
 			(at 146.05 104.394 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8732,6 +8817,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 146.05 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 146.05 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 146.05 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "72"
+			(at 146.05 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "44849aa8-96dc-48d2-b0bc-09432bc34cbc")
 		)
@@ -8741,7 +8870,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "R9")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -8759,7 +8888,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "155609be-9a75-4dff-bec3-28fd86697e3e")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR011"
 			(at 124.46 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -8819,7 +8948,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR022")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -8837,7 +8966,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "185a62f7-dbc0-4738-a02e-0a3e87fec5eb")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR09"
 			(at 111.76 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -8897,7 +9026,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR023")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -8915,7 +9044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28ae08d5-f7a5-439d-841a-d1585a2de346")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR025"
 			(at 198.12 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8975,7 +9104,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR031")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -8994,7 +9123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ab35bb8-d5b4-462f-b361-142a80e3b2fb")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 63.5 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9072,6 +9201,50 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 63.5 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 63.5 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 63.5 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 63.5 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "77"
 			(at 63.5 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -9181,7 +9354,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -9199,7 +9372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34fe0433-73f9-49d5-a4c2-cb931b526810")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR08"
 			(at 107.95 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -9259,7 +9432,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR050")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -9277,7 +9450,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38b1731c-566e-40df-824c-a9e367f6743e")
-		(property "Reference" "U1"
+		(property "Reference" "U3"
 			(at 110.0933 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9365,6 +9538,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 107.95 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 107.95 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 107.95 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "79"
+			(at 107.95 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "59963322-34a9-4d6f-8720-2b1bd7693d0d")
 		)
@@ -9392,7 +9609,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "U1")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -9410,7 +9627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39edae96-4e80-48f0-9fa5-6d9c2ab1d478")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 162.56 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9490,6 +9707,50 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 157.48 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 157.48 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 157.48 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 157.48 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "77"
 			(at 157.48 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9599,7 +9860,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "U2")
+					(reference "U1")
 					(unit 2)
 				)
 			)
@@ -9617,7 +9878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bece8b4-c913-4ada-add2-dc761deab449")
-		(property "Reference" "R8"
+		(property "Reference" "R2"
 			(at 66.04 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9705,6 +9966,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 63.5 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 63.5 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 63.5 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "17"
+			(at 63.5 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "484e551f-e5c2-4b1d-895f-a108f6335bd0")
 		)
@@ -9714,7 +10019,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "R8")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -9732,7 +10037,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3dd65dbc-adc1-4145-a1f6-4e3ad5f5afc2")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR020"
 			(at 158.75 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -9792,7 +10097,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR056")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -9909,6 +10214,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 91.44 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 91.44 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 91.44 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "49"
+			(at 91.44 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fe9fe4f5-0ade-4ae7-ac4b-8be5b4e50e92")
 		)
@@ -9936,7 +10285,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "524f3579-362c-4376-9102-270725537191")
-		(property "Reference" "C14"
+		(property "Reference" "C4"
 			(at 114.3 38.1062 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10024,6 +10373,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 111.76 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 111.76 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 111.76 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "9"
+			(at 111.76 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9d8e3dce-38bb-4434-964f-a456de9dcf90")
 		)
@@ -10033,7 +10426,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C14")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -10051,7 +10444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53090317-fd74-40af-9a84-515c9519bf43")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR015"
 			(at 132.08 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -10111,7 +10504,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR051")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -10129,7 +10522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5733a89e-fd4d-4a11-aecd-2a4967625ce3")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 31.75 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10215,6 +10608,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 31.75 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 31.75 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 31.75 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "82"
+			(at 31.75 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "A12"
 			(uuid "d3e9245a-03ff-4917-913b-80fa392a7a67")
 		)
@@ -10269,7 +10706,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -10287,7 +10724,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6079a712-4c29-4dd8-b276-cdcd74264680")
-		(property "Reference" "C15"
+		(property "Reference" "C6"
 			(at 127 38.1062 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10375,6 +10812,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 124.46 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 124.46 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 124.46 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "9"
+			(at 124.46 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8ba10f20-6ab1-4621-8e34-8d6223b144fd")
 		)
@@ -10384,7 +10865,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C15")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -10480,6 +10961,50 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 160.02 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 160.02 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 160.02 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 160.02 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "74"
 			(at 160.02 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -10605,6 +11130,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 40.64 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 40.64 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 40.64 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "89"
+			(at 40.64 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ab091c13-50a1-432b-8d05-f56deda3fc96")
 		)
@@ -10638,7 +11207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63a449b7-4079-488d-9e49-f4de60f8b8fa")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR014"
 			(at 132.08 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -10698,7 +11267,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR040")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -10715,7 +11284,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6a0d5fe4-4002-44ac-88f0-18d6d76cf9a1")
-		(property "Reference" "R5"
+		(property "Reference" "R4"
 			(at 96.774 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10803,6 +11372,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 95.25 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 95.25 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 95.25 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "67"
+			(at 95.25 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eacf981d-fc92-46d9-baa3-7d89f105c9d4")
 		)
@@ -10812,7 +11425,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "R5")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -10830,7 +11443,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6cefbf5f-457a-4e30-844a-480b5992c960")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR019"
 			(at 157.48 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -10890,7 +11503,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR027")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -10908,7 +11521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70adf35c-b3f4-4572-9207-7236865efcbd")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR04"
 			(at 58.42 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -10968,7 +11581,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR026")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -10985,7 +11598,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "72566c16-5a66-4fe4-b6ff-32e45f760001")
-		(property "Reference" "C10"
+		(property "Reference" "C1"
 			(at 34.29 146.304 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11071,6 +11684,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 34.29 149.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 34.29 149.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 34.29 149.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "88"
+			(at 34.29 149.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2e144bbc-ff62-4cfe-9a84-be7d23f00fb5")
 		)
@@ -11080,7 +11737,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C10")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -11098,7 +11755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7664fc94-540a-4edc-8a7d-3dadb727e2a1")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR023"
 			(at 160.02 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -11158,7 +11815,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR053")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -11176,7 +11833,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79b5478c-bd05-4efc-a6b6-8c0e31aceb14")
-		(property "Reference" "R3"
+		(property "Reference" "R8"
 			(at 184.15 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11264,6 +11921,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 181.61 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 181.61 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 181.61 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "14"
+			(at 181.61 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "473e7d91-5699-4cf4-bb12-b8dc6f247910")
 		)
@@ -11273,7 +11974,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "R3")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -11290,7 +11991,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "81dba650-6173-4247-93f4-f1ee2bfab23d")
-		(property "Reference" "R13"
+		(property "Reference" "R3"
 			(at 95.504 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11378,6 +12079,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 93.98 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 93.98 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 93.98 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "67"
+			(at 93.98 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b071942a-b55b-4d90-a5c7-2e6946d000a9")
 		)
@@ -11387,7 +12132,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "R13")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -11404,7 +12149,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82ebc575-9199-4f12-ac7e-09c7bf343cf9")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR021"
 			(at 158.75 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -11464,7 +12209,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR055")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -11482,7 +12227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84d2644e-f8a9-401f-a546-5536052ddff9")
-		(property "Reference" "C1"
+		(property "Reference" "C9"
 			(at 142.24 39.3762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11570,6 +12315,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 139.7 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 139.7 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 139.7 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "26"
+			(at 139.7 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f8ff54c2-8f35-4368-946e-e1e3d0fec5ce")
 		)
@@ -11579,7 +12368,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C1")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -11694,6 +12483,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 173.99 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 173.99 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 173.99 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "83"
+			(at 173.99 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "00e148ab-a7af-46ad-ba19-7426a880cfe5")
 		)
@@ -11721,7 +12554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a9b31cf-2b46-477d-aae8-fd02ce096ee8")
-		(property "Reference" "C8"
+		(property "Reference" "C7"
 			(at 134.62 139.7062 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11809,6 +12642,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 132.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 132.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 132.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "9"
+			(at 132.08 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6ce355a7-6bcb-4953-a5f5-9cbb40e885f1")
 		)
@@ -11818,7 +12695,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -11836,7 +12713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ada83b0-1b59-469e-9dd1-0a8673874c2a")
-		(property "Reference" "U22"
+		(property "Reference" "U2"
 			(at 74.0411 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11927,6 +12804,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 72.39 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 72.39 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 72.39 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" ""
+			(at 72.39 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "1456c315-3a90-4f15-bf0d-4665ab5e4be4")
 		)
@@ -11948,7 +12869,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "U22")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -11966,7 +12887,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "904932ae-6018-42f4-bc09-adf0b3c00c0e")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR016"
 			(at 132.08 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -12026,7 +12947,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR052")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -12043,7 +12964,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93758e1d-02b9-42c7-8e1a-59284f0afbeb")
-		(property "Reference" "C11"
+		(property "Reference" "C2"
 			(at 34.29 158.496 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12129,6 +13050,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 34.29 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 34.29 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 34.29 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "88"
+			(at 34.29 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "14c30bdc-c39f-49b4-8f21-47c9efffea57")
 		)
@@ -12138,7 +13103,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C11")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -12156,7 +13121,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93998c68-75c9-4051-8028-d33bf382f79b")
-		(property "Reference" "C16"
+		(property "Reference" "C3"
 			(at 33.02 124.4662 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12244,6 +13209,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 35.56 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 35.56 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 35.56 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "76"
+			(at 35.56 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8b7a3b4f-7902-4fe2-872c-7ac370e59106")
 		)
@@ -12253,7 +13262,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C16")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -12271,7 +13280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b413590-30e6-47ca-bbe5-aa6c66bc16b4")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR024"
 			(at 181.61 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12331,7 +13340,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR029")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -12348,7 +13357,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a898d3fc-3e82-4de1-8bcd-272cd1de0bdf")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR013"
 			(at 132.08 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -12408,7 +13417,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR044")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -12426,7 +13435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac2ada08-4511-4663-922b-c466e4db84e5")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR012"
 			(at 132.08 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -12486,7 +13495,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR025")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -12504,7 +13513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae24f25c-13d3-4fc9-8b18-96394399e7c1")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR05"
 			(at 91.44 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -12564,7 +13573,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR024")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -12582,7 +13591,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b1ad5c3f-53cb-474b-909b-77b7b59923b2")
-		(property "Reference" "C2"
+		(property "Reference" "C12"
 			(at 193.04 36.8362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12670,6 +13679,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 190.5 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 190.5 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 190.5 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "86"
+			(at 190.5 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36c23fa2-affe-4d95-9730-bae05a6ac1b2")
 		)
@@ -12679,7 +13732,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C2")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -12697,7 +13750,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7e9df55-75b2-4658-8f09-1738d943cd4f")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR02"
 			(at 27.94 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -12757,7 +13810,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR038")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -12775,7 +13828,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8b28bf4-c131-4045-ada5-1889e9d90d81")
-		(property "Reference" "C3"
+		(property "Reference" "C13"
 			(at 208.28 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12863,6 +13916,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 204.47 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 204.47 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 204.47 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "5"
+			(at 204.47 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eba31bd7-025a-416e-b0e4-7affe82f5b64")
 		)
@@ -12872,7 +13969,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C3")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -12978,6 +14075,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 123.19 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 123.19 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 123.19 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "87"
+			(at 123.19 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2c964b54-5d29-4f09-99df-5d61405c2087")
 		)
@@ -13005,7 +14146,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "beaf86cb-3694-4f08-bbcf-47f01d23e072")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 157.48 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13093,6 +14234,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 157.48 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 157.48 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 157.48 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "78"
+			(at 157.48 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "3e64d9f7-deba-421c-9588-59f3221facc6")
 		)
@@ -13114,7 +14299,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -13276,6 +14461,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 162.56 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 162.56 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 162.56 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "71"
+			(at 162.56 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7351ba4f-88e1-4335-8258-3401aeada48c")
 		)
@@ -13303,7 +14532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1db542d-7d72-435c-9ce5-d27ad7b05dbc")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR07"
 			(at 107.95 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -13363,7 +14592,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR048")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -13381,7 +14610,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d379bfc2-f4fa-4f73-82cd-0acd872e5f75")
-		(property "Reference" "R7"
+		(property "Reference" "R1"
 			(at 55.88 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13469,6 +14698,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 53.34 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 53.34 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 53.34 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "17"
+			(at 53.34 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "59052bc7-6c8c-44c8-bde1-654fe13e8f47")
 		)
@@ -13478,7 +14751,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "R7")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -13582,6 +14855,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 118.11 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 118.11 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 118.11 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "51"
+			(at 118.11 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "23624485-0734-457d-94ed-b8d7780ec09c")
 		)
@@ -13609,7 +14926,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da8a8c9c-1153-4f4a-ab01-366fdfa55442")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR06"
 			(at 93.98 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -13669,125 +14986,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR059")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Simulation_SPICE:NPN")
-		(at 156.21 109.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e4b072f1-cfc2-4f6f-b0af-62b884d6093f")
-		(property "Reference" "Q17"
-			(at 161.29 107.9499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "NPN"
-			(at 161.29 110.4899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 219.71 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
-			(at 219.71 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
-			(at 156.21 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "NPN"
-			(at 156.21 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" "GUMMELPOON"
-			(at 156.21 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 156.21 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6c1457c0-0c30-4dc3-81df-0acb03c3b892")
-		)
-		(pin "1"
-			(uuid "0a881296-169b-4c7e-935e-d67ea45eb069")
-		)
-		(pin "3"
-			(uuid "154f16da-f1ae-4b04-b518-fe56a010ad29")
-		)
-		(instances
-			(project "driver"
-				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "Q17")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -13805,7 +15004,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e66a616e-86b4-4aff-bd2e-36b1e573d337")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR018"
 			(at 140.97 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -13865,7 +15064,136 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR043")
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "filip:NPN_Alternative_1")
+		(at 158.75 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7584e3b-c8c1-42d5-96c6-9c8db221081c")
+		(property "Reference" "Q1"
+			(at 161.29 107.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "NPN"
+			(at 161.29 110.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 158.75 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 158.75 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 158.75 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 158.75 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" ""
+			(at 158.75 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "55a8a566-7317-4a89-8ebb-4b95e6891cf8")
+		)
+		(pin "1"
+			(uuid "f58789e5-d75f-496e-a344-845e53baa6d0")
+		)
+		(pin "2"
+			(uuid "628067f8-bd83-479b-91b1-ed106c2fa66d")
+		)
+		(instances
+			(project "driver"
+				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -13883,7 +15211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec5aa80e-c347-4f0a-a91d-19c89729ad11")
-		(property "Reference" "C9"
+		(property "Reference" "C10"
 			(at 143.51 139.7062 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13971,6 +15299,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 140.97 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 140.97 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 140.97 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "9"
+			(at 140.97 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e25736ac-7fe2-49a5-aa28-b72c5e6fe034")
 		)
@@ -13980,7 +15352,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "C9")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -13998,7 +15370,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eed46af2-225e-42b2-8595-309946a6fafe")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR022"
 			(at 160.02 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -14058,7 +15430,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR054")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -14076,7 +15448,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f08bd844-ca14-4d1c-9884-b5db7c1f968c")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR027"
 			(at 250.19 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14136,7 +15508,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR035")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -14154,7 +15526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f744ae96-75eb-41aa-9dee-b949d0841459")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR010"
 			(at 123.19 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -14214,7 +15586,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR037")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -14233,7 +15605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9cbdc0b-8d47-4bf5-9a5c-86f322888303")
-		(property "Reference" "J5"
+		(property "Reference" "J2"
 			(at 261.62 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14321,6 +15693,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 250.19 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 250.19 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 250.19 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "85"
+			(at 250.19 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "4e2a5e0e-15c7-4d63-8db0-736243b5e14d")
 		)
@@ -14354,7 +15770,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "J5")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -14372,7 +15788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc7cd4c8-fc2f-482f-aa06-22c7a522f0fb")
-		(property "Reference" "R4"
+		(property "Reference" "R6"
 			(at 162.56 172.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14460,6 +15876,50 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 160.02 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 160.02 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 160.02 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part-DB ID" "67"
+			(at 160.02 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bc3dfbaa-0ba3-497b-9bd5-1a3d6b772f19")
 		)
@@ -14469,7 +15929,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "R4")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -14487,7 +15947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe264f1e-23a5-4c15-b7c9-0a14424c0168")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR026"
 			(at 204.47 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -14547,7 +16007,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR030")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -14565,7 +16025,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe3edbaa-6428-4e65-98cd-1be6a10f995f")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR028"
 			(at 251.46 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -14625,7 +16085,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR036")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -14643,7 +16103,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffae75fc-2b76-425f-80f9-5197deca1890")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR03"
 			(at 35.56 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -14703,7 +16163,7 @@
 		(instances
 			(project "driver"
 				(path "/a2aa7131-b8bf-4b18-a03f-b94a30559c13"
-					(reference "#PWR057")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
